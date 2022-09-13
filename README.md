@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer
 -----------------------
 
-Blogging led me to web development. From the desire to customize the already-existing came the power to build from scratch.
+Blogging led me to web development. So from the desire to customize the already-existing came the power to build from scratch.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [ilodigwechinaza@gmail.com](mailto:ilodigwechinaza@gmail.com)
