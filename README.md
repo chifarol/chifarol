@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 
-## About Me
 I’m a Fullstack Web Developer with over 4 years of experience and I love building stuff for the web. Although I started out as a front-end developer, over the years I’ve garnered pertinent skills with which I deliver a variety of services ranging from Web/UI Design, Front-end/Back-end Development and WordPress Themes/Plugins Development. You can check out some of my works on my [website](https://chifarol.github.io/my-portfolio/). I'm open to collaborating on React, Laravel and WordPress projects.
 
 ## Experience
