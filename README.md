@@ -23,8 +23,8 @@ I’m a software developer with over 4 years of experience and I love building s
   - Taught HTML, CSS, Tailwindcss, PHP, MySQL
 - **Freelance Web Developer**
   - Helped increase revenue by redesigning a car rental website for a client.
- - Designed and developed high converting landing pages for multiple clients.
- - Redesigned the official website of multiple companies
+  - Designed and developed high converting landing pages for multiple clients.
+  - Redesigned the official website of multiple companies
 - **Web Developer (Intern)** at [I4G x Zuri](https://training.zuri.team) (2019 - 2020)
   - Enrolled and learnt the basics of UI/UX design
   - Enrolled and learnt the basics of web development (HTML, CSS, JS, Python & Django)
@@ -72,7 +72,7 @@ I’m a software developer with over 4 years of experience and I love building s
 
 <p align="left">
    <a href="mailto:ilodigwechinaza@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/chifarol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="https://www.github.com/chifarol" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/bi:github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/chinaza-ilodigwe-05b435186" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.twitter.com/ilodigwechinaza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
