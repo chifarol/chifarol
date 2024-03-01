@@ -6,8 +6,8 @@ I’m a Fullstack Web Developer with over 4 years of experience and I love build
 
 ## Experience
 - **Lead Frontend Developer** at [Mobirevo](https://mobirevo.com) (Feb. 2023 - Present)
-  - Spearheaded conversion of figma mockups to code
-  - Integrated backend APIs on the front-end
+  - Conversion of figma mockups to code
+  - Integration of backend APIs on the front-end
   - Built a web-based vector graphics editor similar to (Figma, Illustrator)
   - Optimized web pages to improve performance
 - **Fullstack Developer (Contract)** at [Blueportal Software](https://blueportalcompany.com)
