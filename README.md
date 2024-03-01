@@ -71,7 +71,7 @@ I’m a software developer with over 4 years of experience and I love building s
 ## Socials
 
 <p align="left">
-   <a href="mailto:ilodigwechinaza@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="32" height="32" /></a> 
+   <a href="mailto:ilodigwechinaza@gmail.com" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/material-symbols:mail-outline-sharp.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/chifarol" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/bi:github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/chinaza-ilodigwe-05b435186" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.twitter.com/ilodigwechinaza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
